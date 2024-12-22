@@ -1,2 +1,2 @@
 # project2
-This is a Project about AI
+This is a Project about AI.
